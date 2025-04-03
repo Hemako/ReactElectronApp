@@ -30,7 +30,7 @@ To package apps for the local platform:
 npm run package
 ```
 
-## Packaging for Production
+## Publish for Production
 
 To publish apps for the all platforms:
 
